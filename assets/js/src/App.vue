@@ -1,7 +1,9 @@
 <template>
-    <div>
-      {{ text }}
-      <the-board-list/>
+    <div class="hero">
+        <div class="hero-body">
+            {{ text }}
+            <the-board-list/>
+        </div>
     </div>
 </template>
 
